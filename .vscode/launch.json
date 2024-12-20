@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "msedge",
+            "name": "http://127.0.0.1:3000/helloworld.html",
+            "request": "launch",
+            "url": "http://127.0.0.1:3000/helloworld.html"
+        },
+        {
+            "type": "msedge",
+            "name": "http://127.0.0.1:3000/News App/index.html",
+            "request": "launch",
+            "url": "http://127.0.0.1:3000/News App/index.html"
+        }
+    ]
+}
